@@ -1,0 +1,12 @@
+{
+  "env": {
+    "development": {
+      "dbUrl": "mongodb://usertest:usertest0@ds241298.mlab.com:41298/usercrud",
+      "master_salt": "microservicesisanamazinshipsalmanbuilt",
+      "reset_password_salt": "microservicesisanamazinshipsalmanbuilt",
+      "secret": "microservicesisanamazinshipsalmanbuilt"
+    },
+    "test": {},
+    "production": {}
+  }
+}
